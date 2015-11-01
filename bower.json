@@ -23,6 +23,8 @@
     "tests"
   ],
   "dependencies": {
-    "d3": "~3.5.6"
+    "d3": "~3.5.6",
+    "webcomponentsjs": "~0.7.15",
+    "polymer": "~1.2.1"
   }
 }
