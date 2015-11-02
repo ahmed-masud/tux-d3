@@ -1,3 +1,7 @@
+/*
+ */
+
+
 window._svgFix = (window.Polymer.prototype._svgFix || function(parent) {
     var doc = document.currentScript.parentNode;
     var root = doc.querySelector('dom-module > template').content;
