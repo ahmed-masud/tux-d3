@@ -1,7 +1,7 @@
 // TUX-D3 wrapper Object
 
 window.TuxD3 = window.TuxD3 || (function() {
-    var self = this;
+    var self = {};
 
     self.SVGPolymer = function() {
         var domModuleNode = document.currentScript.parentNode;
